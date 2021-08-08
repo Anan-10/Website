@@ -1,0 +1,82 @@
+body{
+  background-color: #F0FFF0;
+  margin:0;
+  text-align:center;
+  font-size: 22px;
+  
+  
+}
+h1{
+  width:20%;
+  margin: 0 auto;
+  font-family: 'MonteCarlo', cursive;
+  font-size: 220%;
+  color: #A52A2A;
+  
+  
+}
+h2{
+  font-family: 'Georama', sans-serif;
+  font-size: 2.5rem;
+  color: #A52A2A;
+}
+
+h3{
+  font-family: 'Georama', sans-serif;
+  font-size: 22px;
+  color: #A52A2A;
+  font-weight: normal;
+}
+p{
+  font-family: 'Georama', sans-serif;
+  font-size: 15px;
+}
+
+.top-container{
+  color: Black;
+  position:relative;
+  padding-top: 100px;
+  
+}
+.middle-container{
+
+  color: Black;
+  
+}
+.bottom-container{
+
+  color: Black;
+}
+
+.top-cloud{
+  position:absolute;
+  top: 50px;
+  right: 300px;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+  
+}
+.dev{
+  width:120px;
+  height:120px;
+}
+.icon{
+  font-family: 'Georama', sans-serif;
+  font-size: 12px;
+}
+a{
+  font-family: 'Georama', sans-serif;
+  font-size: 12px;
+  color:#1E90FF;
+}
+.sports{
+  width:120px;
+  height:120px;
+}
+.contact-me{
+  font-family: 'Georama', sans-serif;
+  font-size: 20px;
+}
